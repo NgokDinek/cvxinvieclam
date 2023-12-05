@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+    color: rgb(6, 87, 6);
+    margin-left: 15px;
+}
+.cv{
+    border: 5px black solid;
+    width: 50%;
+    display: flex;
+    margin-left: 500px;
+}
+/*------------------ben trai-------------------*/
+.left{
+    background-color: blanchedalmond;
+    width: 35%;
+    height: 100%;
+}
+.left img{
+    width: 50%;
+    height: 50%;
+    margin-top: 20px;
+    margin-left: 25%;
+    border: 4px solid blanchedalmond;
+    border-radius: 50%;
+}
+.left p{
+    margin:25px 20px
+}
+.hobby p{
+    margin: 10px 20px;
+}
+.skill h4{
+    margin: 5px 20px;
+}
+.refer b p{
+    margin: 0 20px;
+}
+.refer h3{
+    margin-left: 20px;
+}
+.refer h2{
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.per1{
+    margin-bottom: 15px;
+}
+.per2{
+    margin-bottom: 15px;
+}
+.task{
+    display: flex;
+}
+.bl{
+    border: 1px solid black;
+    background-color: rgb(71, 243, 28);
+    width: 85px;
+    height: 8px;
+    margin-left: 20px;
+    border-right: none;
+}
+.br{
+    border: 1px solid black;
+    background-color: white;
+    width: 85px;
+    height: 8px;
+    border-left: none;
+    
+    
+}
+/*-----------------ben phai--------------------*/
+.right{
+    width: 60%;
+    height: 100%;
+}
+.right h1{
+    
+    font-family: arial;
+    margin-left: 15px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    color: rgb(8, 66, 8);
+}
+.vitri{
+    color: rgb(6, 87, 6);
+}
+.inf2{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.lienhe img{
+    margin-left: 15px;
+    width: 5%;
+    height: 5%;
+    margin-top: 2px;
+}
+.thongtin{
+    margin-top: 12px;
+}
+.gmail{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.cap1{
+    display: flex;
+    margin-top: 15px;
+}
+.cap2{
+    display: flex;
+    margin-top: 15px;
+}
+.cap3{
+    display: flex;
+    margin-top: 15px;
+}
+.pro{
+    margin-left: 35px;
+}
+.year{
+    border: 1px solid orange;
+    background-color: orange;
+    height: 40px;
+    margin-left: 30px;
+    border-radius: 4px;
+}
+.tt{
+    margin-left: 15px;
+    margin-right: 25px;
+}
+.exp h2{
+    margin-top: 15px;
+}
+
+
+
